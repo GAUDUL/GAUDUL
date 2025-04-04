@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+## Hey 👋, [![Github Badge](https://img.shields.io/badge/-GAUDUL-grey?style=flat&logo=github&logoColor=white&link=https://github.com/GAUDUL/)](https://www.github.com/GAUDUL/) 
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=GAUDUL alt=GAUDUL /> </p>
+-->
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=GAUDUL&show_icons=true&include_all_commits=true)](https://github.com/GAUDUL/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAUDUL&layout=compact)](https://github.com/GAUDUL/github-readme-stats)
