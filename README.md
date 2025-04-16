@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 ---
 
 ## 🔍 Who am I?
-🎓 I am majoring in Computer Engineering.  
-🌱 These days, I am primarily studying backend and game development.
+- I am majoring in Computer Engineering.  
+- These days, I am primarily studying backend and game development.
+- I am open to any advice or suggestions, and my communication channels are always available!
 
 <p align="center">
   <a href="mailto:limjsu123@gmail.com">
@@ -44,6 +45,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=tistory&logoColor=white" alt="Tech Blog" />
   </a>
 </p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAUDUL&layout=compact)](https://github.com/GAUDUL/github-readme-stats)
 
