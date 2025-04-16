@@ -49,18 +49,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GAUDUL&show_icons=true&include_all_commits=true&hide_rank=true&v=2)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAUDUL&layout=compact)](https://github.com/GAUDUL/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=GAUDUL&show_icons=true&include_all_commits=true&hide_rank=true&v=2&theme=nord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAUDUL&layout=compact&theme=nord)](https://github.com/GAUDUL/github-readme-stats)
 
-
-
-<!--
-<p align="left">
-  <a href="https://github.com/GAUDUL/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GAUDUL&title=-Stars,-Reviews" alt="GAUDUL Trophy" />
-  </a>
-</p>
--->
+[![GAUDUL Trophy](https://github-profile-trophy.vercel.app/?username=GAUDUL&theme=nord&title=-Stars,-Reviews)](https://github.com/GAUDUL/github-profile-trophy)
 
 
 ---
