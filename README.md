@@ -41,13 +41,27 @@ Here are some ideas to get you started:
   <a href="mailto:limjsu123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://discord.com/users/936622559930249247">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
   <a href="https://jorumstv.tistory.com/">
     <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=tistory&logoColor=white" alt="Tech Blog" />
   </a>
 </p>
 
-
+![Stats](https://github-readme-stats.vercel.app/api?username=GAUDUL&show_icons=true&include_all_commits=true&hide_rank=true&v=2)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAUDUL&layout=compact)](https://github.com/GAUDUL/github-readme-stats)
+
+
+
+<!--
+<p align="left">
+  <a href="https://github.com/GAUDUL/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GAUDUL&title=-Stars,-Reviews" alt="GAUDUL Trophy" />
+  </a>
+</p>
+-->
+
 
 ---
 
@@ -74,9 +88,6 @@ Here are some ideas to get you started:
 
 
 ---
-
-
-
 
 
 
