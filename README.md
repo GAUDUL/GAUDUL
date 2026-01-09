@@ -49,12 +49,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GAUDUL&show_icons=true&include_all_commits=true&hide_rank=true&v=2&theme=nord)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAUDUL&layout=compact&theme=nord)](https://github.com/GAUDUL/github-readme-stats)
-
-[![GAUDUL Trophy](https://github-profile-trophy.vercel.app/?username=GAUDUL&theme=nord&title=-Stars,-Reviews)](https://github.com/GAUDUL/github-profile-trophy)
-
-
 ---
 
 ## 🛠 Tech Stack
@@ -63,7 +57,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <p>
